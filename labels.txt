@@ -1,0 +1,3 @@
+0 Rock
+1 Papar
+2 Scissor
